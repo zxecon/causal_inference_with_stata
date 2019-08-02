@@ -6,8 +6,8 @@ It contains files and notes that I benefit a lot during my study.
 
 ### Difference-in-Differences (DID)
 
-### Propensity Score Matching (PSM)
-Notes: [PSM](https://github.com/zxecon/causality/blob/master/psm.md)
+### Matching Methods
+Notes: [MM](https://github.com/zxecon/causality/blob/master/psm.md)
 
 ### Synthetic Control Method (SCM)
 
