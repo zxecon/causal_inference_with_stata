@@ -7,7 +7,7 @@ It contains files and notes that I benefit a lot during my study.
 ### Difference-in-Differences (DID)
 
 ### Matching Methods
-Notes: [MM](https://github.com/zxecon/causality/blob/master/psm.md)
+Notes: [psm](https://github.com/zxecon/causality/blob/master/psm.md)
 
 ### Synthetic Control Method (SCM)
 
