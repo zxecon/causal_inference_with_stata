@@ -2,10 +2,6 @@
 
 In the statistical analysis of observational data, propensity score matching (PSM) is a statistical matching technique that attempts to estimate the effect of a treatment, policy, or other intervention by accounting for the covariates that predict receiving the treatment. PSM attempts to reduce the bias due to confounding variables that could be found in an estimate of the treatment effect obtained from simply comparing outcomes among units that received the treatment versus those that did not. Paul Rosenbaum and Donald Rubin introduced the technique in 1983.
 
-#### Conception
-
-#### Theory
-
 #### Coding in Stata and Explaination
 The codes here is written in Stata and following these procedures: calculating propensiy score; matching; balance test; estimating treatment effect; further analysis.
 
@@ -48,8 +44,6 @@ psmatch2 [dependent var], pscore(pscore) outcome([outcome var])
 It provides detailed outcomes for average treatment effect on your target outcome variables.
 
 Last but not least, sometimes researcher do further analysis by combing difference-in-differences with propensity score match. The coding is to conduct the DID process in the matched sample. 
-
-#### Conclusion
 
 References: [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://www.jstor.org/stable/2335942?seq=1#metadata_info_tab_contents);
 [psm](https://en.wikipedia.org/wiki/Propensity_score_matching), 
